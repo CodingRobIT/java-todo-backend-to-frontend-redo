@@ -1,5 +1,6 @@
 import {Todo} from "./Todo";
 import TodoCard from "./TodoCard";
+import './TodoGallery.css'
 
 
 type Props = {
